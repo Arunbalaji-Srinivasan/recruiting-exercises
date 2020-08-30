@@ -1,14 +1,10 @@
-## WareHouse.java  POJO class for providing sample tests
+# Instructions to run the project
+   - Either include the folder into IDE and Import JUnit and RUN
 
-## InventoryAllocator.java - class that has a function which returns the cheapest shipment
+-  WareHouse.java  POJO class for providing sample tests
 
-## InventoryAllocatorTest.java	 all the test class for InventoryAllocator
+-  InventoryAllocator.java - class that has a function which returns the cheapest shipment
 
-## Instructions to run the project
-   # Either include the folder into IDE and Import JUnit and RUN
-   # or to run via Command Line, follow the below instructions
+- InventoryAllocatorTest.java	 all the test class for InventoryAllocator
 
-      # Compile JAVA classes using - javac ClassName.java
-      # Run java class file using - java ClassName
-      # To run JUnit Test Cases:
-        # java -cp .:junit.jar org.junit.runner.JUnitCore ClassName
+  
